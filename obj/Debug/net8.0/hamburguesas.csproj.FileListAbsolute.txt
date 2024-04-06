@@ -1,0 +1,14 @@
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\hamburguesas\obj\Debug\net8.0\hamburguesas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\hamburguesas\obj\Debug\net8.0\hamburguesas.AssemblyInfoInputs.cache
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\hamburguesas\obj\Debug\net8.0\hamburguesas.AssemblyInfo.cs
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\hamburguesas\obj\Debug\net8.0\hamburguesas.csproj.CoreCompileInputs.cache
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\hamburguesas\bin\Debug\net8.0\hamburguesas.exe
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\hamburguesas\bin\Debug\net8.0\hamburguesas.deps.json
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\hamburguesas\bin\Debug\net8.0\hamburguesas.runtimeconfig.json
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\hamburguesas\bin\Debug\net8.0\hamburguesas.dll
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\hamburguesas\bin\Debug\net8.0\hamburguesas.pdb
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\hamburguesas\obj\Debug\net8.0\hamburguesas.dll
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\hamburguesas\obj\Debug\net8.0\refint\hamburguesas.dll
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\hamburguesas\obj\Debug\net8.0\hamburguesas.pdb
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\hamburguesas\obj\Debug\net8.0\hamburguesas.genruntimeconfig.cache
+C:\Users\smont\OneDrive\Documentos\Visual Studio 2017\hamburguesas\obj\Debug\net8.0\ref\hamburguesas.dll
